@@ -1,0 +1,40 @@
+.add-car {
+      max-width: 600px;
+      margin: auto;
+      padding: 20px;
+      background-color: #fff;
+      border-radius: 8px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+    
+    .add-car h2 {
+      text-align: center;
+      color: #333;
+    }
+    
+    .add-car form {
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+    }
+    
+    .add-car input {
+      margin-bottom: 10px;
+      padding: 10px;
+      font-size: 16px;
+    }
+    
+    .button.add {
+      background-color: #28a745;
+      color: white;
+      padding: 10px;
+      border: none;
+      cursor: pointer;
+      border-radius: 5px;
+      font-size: 16px;
+    }
+    
+    .button.add:hover {
+      background-color: #218838;
+    }
+    

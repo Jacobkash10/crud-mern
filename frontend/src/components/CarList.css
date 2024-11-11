@@ -1,0 +1,27 @@
+.car-list ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    
+    .car-list li {
+      border: 1px solid #ddd;
+      margin: 10px 0;
+      padding: 10px;
+      background-color: #fff;
+      border-radius: 5px;
+    }
+    
+    .buttons .button {
+      margin-right: 5px;
+      padding: 8px 12px;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      text-decoration: none;
+    }
+    
+    .details { background-color: #007bff; }
+    .update { background-color: #ffc107; }
+    .delete { background-color: #dc3545; }
+    

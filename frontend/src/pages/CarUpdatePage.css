@@ -1,0 +1,22 @@
+.car-update form {
+      display: flex;
+      flex-direction: column;
+      width: 300px;
+      margin: auto;
+    }
+    
+    .car-update input {
+      margin-bottom: 10px;
+      padding: 8px;
+      font-size: 16px;
+    }
+    
+    .button.update {
+      background-color: #28a745;
+      color: white;
+      padding: 10px;
+      border: none;
+      cursor: pointer;
+      border-radius: 5px;
+    }
+    
